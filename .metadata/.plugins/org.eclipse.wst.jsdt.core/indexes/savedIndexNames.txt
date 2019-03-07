@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\cecii\Desktop\Proyecto Final Glitch\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2826118989.index
+2532141338.index
+2686081096.index
+902913937.index
+1309236062.index
+54017879.index

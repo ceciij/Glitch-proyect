@@ -1,0 +1,5 @@
+2018-12-18 19:11:53,833 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-19 17:16:45,931 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-20 18:34:11,069 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-20 18:51:00,885 [Worker-8: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\cecii\Desktop\Proyecto Final Glitch\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2018-12-20 18:51:01,100 [Worker-8: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\cecii\Desktop\Proyecto Final Glitch\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
